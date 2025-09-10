@@ -17,20 +17,20 @@
 ---
 
 ## 📊 Estatísticas do GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ruivospacecode&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruivospacecode&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ruivocodespace&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruivocodespace&layout=compact&theme=radical)
 
 ---
 
 ## 🚀 Projetos em Destaque
-- 🎰 [Raspadinha em Python](https://github.com/ruivospacecode/raspadinha)  
-- ⚡ [Automação de Estoque](https://github.com/ruivospacecode/estoque)  
-- 🌐 [Projetos Web](https://github.com/ruivospacecode)  
+- 🎰 [Raspadinha em Python](https://github.com/ruivocodespace/raspadinha)  
+- ⚡ [Automação de Estoque](https://github.com/ruivocodespace/estoque)  
+- 🌐 [Projetos Web](https://github.com/ruivocodespace)  
 
 ---
 
 ## 🐍 Contribuições
-![Snake animation](https://github.com/ruivospacecode/ruivospacecode/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/ruivospacecode/ruivocodespace/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
