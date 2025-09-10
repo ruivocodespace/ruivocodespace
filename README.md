@@ -1,25 +1,29 @@
-### Olá! Bem vindo ao meu GitHub!
-##
-<div align="center">
-  <a href="https://github.com/ruivocodespace">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=ruivocodespace&show_icons=true&theme=dark"/>
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruivocodespace&layout=compact&langs_count=10&theme=dark"/>
-</div>
+# 👋 Olá, eu sou o Peterson!
 
-  ##
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="C" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+💻 Estudante de Desenvolvimento de Sistemas (SENAI - 2026)  
+📦 Experiência em vendas, logística e liderança de equipes  
+🚀 Explorando **Python, Web e Git**  
 
-  ##
-  
-<div>
-  <a href="https://www.linkedin.com/in/peterson-ruivo-637345199/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-</div>
+---
 
+## ⚡ Tecnologias
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFCE00?style=for-the-badge&logo=javascript&logoColor=000)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
+
+---
+
+## 📊 Estatísticas
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=petersonruivo&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=petersonruivo&layout=compact&theme=radical)
+
+---
+
+## 🚀 Projetos
+- 🎰 [Raspadinha em Python](https://github.com/petersonruivo/raspadinha)  
+- ⚡ [Automação de Estoque](https://github.com/petersonruivo/estoque)  
+
+---
+
+## 🐍 Contribuições
+![Snake animation](https://github.com/petersonruivo/petersonruivo/blob/output/github-contribution-grid-snake.svg)
