@@ -23,14 +23,12 @@
 ---
 
 ## 🚀 Projetos em Destaque
-- 🎰 [Raspadinha em Python](https://github.com/ruivocodespace/raspadinha)  
-- ⚡ [Automação de Estoque](https://github.com/ruivocodespace/estoque)  
-- 🌐 [Projetos Web](https://github.com/ruivocodespace)  
+- #️⃣ [Tic-tac-toe](https://github.com/ruivocodespace/jogo_da_velha)  
+- 🎰 [Raspadinha em Python](https://github.com/ruivocodespace/raspadinha) 
 
 ---
 
 ## 🐍 Contribuições
-![Snake animation](https://github.com/ruivospacecode/ruivocodespace/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
