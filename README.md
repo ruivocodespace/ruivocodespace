@@ -23,7 +23,7 @@
 ---
 
 ## 🚀 Projetos em Destaque
-- #️⃣ [Tic-tac-toe](https://github.com/ruivocodespace/jogo_da_velha)  
+- #️⃣ [Jogo da Velha - JavaScript](https://github.com/ruivocodespace/jogoDaVelha.git)  
 - 🎰 [Raspadinha em Python](https://github.com/ruivocodespace/raspadinha)
 - 🔗[Tic-tac-toe em HTML](https://github.com/ruivocodespace/tictactoe_html.git)
 
