@@ -2,7 +2,7 @@
 
 💻 Estudante de Desenvolvimento de Sistemas (SENAI - 2026)  
 📦 Experiência em vendas, logística e liderança de equipes  
-🚀 Atualmente explorando **Python, C, HTML, CSS e Git**  
+🚀 Atualmente explorando **Python, C, HTML, CSS, JS e Git**  
 
 ---
 
