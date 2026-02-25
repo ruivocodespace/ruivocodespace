@@ -28,12 +28,6 @@ Atualmente focado em fortalecer minha base em desenvolvimento backend, frontend,
 
 ---
 
-## 📊 Estatísticas
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ruivocodespace&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ruivocodespace&layout=compact&theme=radical)
-
----
 
 ## 🎯 Objetivo
 Atuar como desenvolvedor júnior ou estagiário, aplicando lógica, organização e pensamento estruturado na construção de soluções reais.
