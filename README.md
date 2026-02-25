@@ -24,12 +24,16 @@ Atualmente focado em fortalecer minha base em desenvolvimento backend, frontend,
 
 ### 🔧 Ferramentas
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=fff)
 
 ---
 
 ## 📊 Estatísticas
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ruivocodespace&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruivocodespace&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ruivocodespace&show_icons=true&theme=radical&cache_seconds=1800)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruivocodespace&layout=compact&theme=radical&cache_seconds=1800)
+
+---
 
 ---
 
