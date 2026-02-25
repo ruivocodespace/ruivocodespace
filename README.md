@@ -3,7 +3,7 @@
 💻 Desenvolvedor em formação  
 🎓 Técnico em Desenvolvimento de Sistemas – SENAI  
 
-Atualmente focado em fortalecer minha base em desenvolvimento backend, frontend e estruturação de sistemas.
+Atualmente focado em fortalecer minha base em desenvolvimento backend, frontend, banco de dados e estruturação de sistemas.
 
 ---
 
