@@ -29,9 +29,11 @@ Atualmente focado em fortalecer minha base em desenvolvimento backend, frontend,
 ---
 
 ## 📊 Estatísticas
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ruivocodespace&show_icons=true&theme=radical&cache_seconds=1800)
+## 📊 Estatísticas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruivocodespace&layout=compact&theme=radical&cache_seconds=1800)
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ruivocodespace&show_icons=true&theme=radical"/>
+
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ruivocodespace&layout=compact&theme=radical"/>
 
 ---
 
