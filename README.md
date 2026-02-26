@@ -3,7 +3,13 @@
 💻 Desenvolvedor em formação  
 🎓 Técnico em Desenvolvimento de Sistemas – SENAI  
 
-Atualmente focado em fortalecer minha base em desenvolvimento backend, frontend, banco de dados e estruturação de sistemas.
+Atualmente focado em desenvolvimento backend, lógica de programação, processamento de dados e construção de sistemas estruturados.
+
+Tenho experiência prática com projetos envolvendo:
+- CRUD com autenticação e banco de dados
+- Processamento e consolidação de dados em CSV
+- Simulações com regras de negócio
+- Desenvolvimento colaborativo
 
 ---
 
@@ -28,13 +34,31 @@ Atualmente focado em fortalecer minha base em desenvolvimento backend, frontend,
 
 ---
 
+## 📌 Projetos em Destaque
+
+🚍 **Contador de Passageiros**  
+Processamento de dados CSV com consolidação e ordenação utilizando Python.
+
+🎰 **Simulador de Raspadinha**  
+Aplicação em Python com controle de estado, regras de negócio e validação de entrada.
+
+🗄 **Sistema de Gestão (PHP + MySQL)**  
+CRUD completo com autenticação de usuários e integração com banco de dados.
+
+🎮 **Jogo da Velha (Projeto Colaborativo)**  
+Aplicação modular em Python desenvolvida em equipe como atividade final de curso (Pyhton Essentials 1).
+
+---
 
 ## 🎯 Objetivo
+
 Atuar como desenvolvedor júnior ou estagiário, aplicando lógica, organização e pensamento estruturado na construção de soluções reais.
 
-📫 Conecte-se comigo:
+---
+
+📫 Conecte-se comigo:  
 [LinkedIn](https://www.linkedin.com/in/petersonruivo/)
 
 ---
 
-✨ Construindo consistência todos os dias.
+✨ Crescer, evoluir e manter as bases fortes.
