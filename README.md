@@ -1,6 +1,6 @@
 # Olá, eu sou o Peterson 👋
 
-💻 Desenvolvedor em formação  
+💻 Desenvolvedor Júnior  
 🎓 Técnico em Desenvolvimento de Sistemas – SENAI  
 
 Atualmente focado em desenvolvimento backend, lógica de programação, processamento de dados e construção de sistemas estruturados.
