@@ -58,7 +58,7 @@ Aplicação modular em Python desenvolvida em equipe como atividade final de cur
 
 ---
 
-## 🎯 Objetivo
+## 🎯 Objetivo atual
 
 Atuar como desenvolvedor júnior ou estagiário, aplicando lógica, organização e pensamento estruturado na construção de soluções reais.
 
