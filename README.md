@@ -50,8 +50,8 @@ Processamento de dados CSV com consolidação e ordenação utilizando Python.
 🎰 **Simulador de Raspadinha**  
 Aplicação em Python com controle de estado, regras de negócio e validação de entrada.
 
-🗄 **Sistema de Gestão (PHP + MySQL)**  
-CRUD completo com autenticação de usuários e integração com banco de dados.
+🎓 **Plataforma EAD SENAI (PHP + MySQL)**
+Sistema completo de ensino a distância com autenticação de usuários, inscrição em cursos, organização por módulos e aulas, além de controle de progresso do aluno.
 
 🎮 **Jogo da Velha (Projeto Colaborativo)**  
 Aplicação modular em Python desenvolvida em equipe como atividade final de curso (Pyhton Essentials 1).
